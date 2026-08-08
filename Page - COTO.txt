@@ -1,0 +1,99 @@
+[b][i]“FROM THE MOMENT I UNDERSTOOD THE WEAKNESS OF MY FLESH, IT DISGUSTED ME [...]”[/i][/b]
+[i]— Magos-Dominus Reditus, Adeptus Mechanicus[/i]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Gif.gif[/img]
+
+[b]Children of the Omnissiah[/b] is a mod focused on depicting the Adeptus Mechanicus within the [b][i]"Segmentum series"[/i][/b] for RimWorld. The Adeptus Mechanicus, also known as the Priesthood of Mars, is a technological order that holds a monopoly  over the Imperium of Mankind’s technological knowledge and industrial doctrine.
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135]Follow our collection for more "[b]Warhammer 40,000[/b]" content[/url], by REDACTED.
+
+- [i]Abomination, REDACTED's current Chairman[/i]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/More40k.png[/img][/url]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Content.png[/img]
+
+[b]Children of the Omnissiah[/b] is currently on version 1.1.4. Read the change log for more information on each release's content. Apparel powered by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3267464767][b]RimDark 40k's Framework[/b][/url]. 
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/COTO/Contents_01.png[/img]
+
+Weapons require at minimum two researches to become craftable. [b]Keep in mind the warnings listed below,[/b] as these weapons can be as dangerous and lethal to the wielder as they are to their targets.
+
+Additionally, [b]Radiation poisoning[/b] can be treated with a neutroamine infusion, available in the "Operations tab" of your pawn.
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/COTO/Contents_02.png[/img]
+
+[b]Radiation poisoning[/b] can be treated with a neutroamine infusion, available in the "Operations tab" of your pawn.
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/COTO/Contents_03.png[/img]
+
+[b]Sicarians[/b] are an optional feature, meaning that you'll just be unable to see or use them, if you don't have [b]Biotech[/b] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336][b]Big & Small Framework[/b][/url] enabled.
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/COTO/Contents_04.png[/img]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Translat.png[/img]
+
+If you've made a translation for this mod, then [b]let us know and we'll include them here![/b]
+[list]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3674461393][b]Chinese[/b] by George Joestar III[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3730153444][b]Ukrainian[/b] by 𝖂𝖊յ𝖙𝖆𝖑𝖑[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3750297477][b]Ukrainian[/b] by Sinoptick[/url]
+[/list]
+[i]Translations are not maintained by REDACTED or the specific developers of this Segmentum mod. If something is wrong or broken, notify the translation's author.[/i]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/FAQ.png[/img]
+
+[b]Q:[/b] Do these weapons spawn on enemies?
+[b]A:[/b] The weapons will only be used by the hostile Explorators faction added by the mod. Random raiders and caravaneers will not use them.
+
+[b]Q:[/b] Is this mod safe to be added mid-save game?
+[b]A:[/b] Yes, it should be safe to add, but removing may cause massive issues.
+
+[b]Q:[/b] Is this mod going to receive updates in the future OR be maintained by the authors?
+[b]A:[/b] Yes. You can keep track of our plans in our [url=https://discord.gg/UtXexRemce][b]Discord server[/b][/url].
+
+[b]Q:[/b] Is this mod CE compatible?
+[b]A:[/b] Currently not, but we do not handle Combat Extended's patching, feel free to contact CE's team for that!
+
+[b]Q:[/b] Can I suggest something OR share my ideas?
+[b]A:[/b] Yes, join our [url=https://discord.gg/UtXexRemce][b]Discord server[/b][/url], and send your suggestions in the #ideas channel].
+
+[b]Q:[/b] Is there an official mod collection or list of Segmentum mods?
+[b]A:[/b] You can [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135]find it here[/url][/b].
+
+[b]Q:[/b] Is there a GitHub repository where I can find this mod?
+[b]A:[/b] Yes, [url=https://github.com/Segmentum-series]access our GitHub page[/url].
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Authors.png[/img]
+
+This mod is a creation of REDACTED, a collective of coders, artists, writers and more, making mods for RimWorld.
+[list]
+[*]Abomination - Art direction, graphics artist, XML coding, SFX, producer
+[*]Anndra - Supervising writer, writer, XML coding
+[*]The Suspect - Graphics artist (weapons), SFX, writer
+[*]TwoLargeGayMen - C# coding, XML coding
+[*]A Random Cogboy - Producer
+[*]Gerrymon - Statue graphics, screenshots
+[*]JerryTheCultist - Xenotype XML coding
+[*]ShunTheWitch - Custom fire C# coding
+[*]Sandwish - Ideoligion C# & XML coding[/list]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Thanks.png[/img]
+
+Special thanks to the [b]entire REDACTED team[/b] for your commitment, patience, and the level of care given to this mod. Working with you is always a pleasure! 
+
+A massive thank you to [b]Phonicmas[/b] and the [b]RimDark team[/b]. Your support and the outstanding [b]RimDark series and framework[/b] have been essential for us.
+
+Many thanks to [b]Coventech[/b] for the excellent [b]CVN Mechanoid Warfare Core[/b] and support.
+
+Huge thanks to our [b]playtesters[/b] for helping identify and resolve issues and oversights before release. Special mention goes to [b]trapinlive[/b] for their significant support during the closed beta testing for 1.0.
+
+Special thanks to Oskar Potocki for the images hosting setup.
+
+[b][url=https://creativecommons.org/licenses/by-nc-nd/4.0/] (CC BY-NC-ND 4.0)[/url][/b]
+
+[b]Do you like to see, and would like to support future developments? Become a Patreon or buy us a Coffee![/b]
+[url=https://www.patreon.com/cw/Segmentum][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Patreon.png[/img][/url]
+[url=https://ko-fi.com/teamredacted][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Kofi.png[/img][/url]
+[url=https://discord.gg/UtXexRemce][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Bugs.png[/img][/url]
+[b]In case of bugs, errors or other problems, join our Discord server, reach the team in the #questions channel or report a bug in #bugs. Remember to read the pinned post![/b]

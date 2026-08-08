@@ -1,0 +1,71 @@
+[b]Core[/b] is dedicated to hosting dependency files used by the [b][i]"Segmentum"[/i][/b] mods series for RimWorld. It contains essential Segmentum code, and should therefore not be used unless other Segmentum mods are enabled in your playthrough.
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Gif.gif[/img]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135]Follow our collection for more "[b]Warhammer 40,000[/b]" content[/url], by REDACTED.
+
+Content is subject to change as we continue to review and expand the mod’s dependency resources. Additional features and refinements will be introduced over time. This is a fan-made project developed in our available spare time, and we appreciate your understanding and continued support as the series evolves.
+
+- [i]Abomination, REDACTED's current Chairman[/i]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/More40k.png[/img][/url]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Content.png[/img]
+
+This mod serves as a host for dependency files used by the Segmentum series. When enabled, it provides access to select shared content required by other modules, and a handful of new additions. Non-dependency when enable include:
+[list]
+[*][b][i]TwoLargeGayMen's[/i] "Imperial Date System"[/b] - Modifying the standard year system of RimWorld, to display a Warhammer 40,000 stylized year system. You are able to pick a variety of years as well as fully customize the displayed date, just remember to save and reload your game for it to be displayed.
+[/list]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/CORE/Contents_01.png[/img]
+
+The following apparels are modifiable and colourable in the mod's crafting station.
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/CORE/Contents_02.png[/img]
+
+Accessories occupy the Utility slot, and will change visuals depending on apparels equipped.
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/CORE/Contents_03.png[/img]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Translat.png[/img]
+
+If you've made a translation for this mod, then [b]let us know and we'll include them here![/b]
+[list]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3679494202][b]Chinese[/b] by George Joestar III[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3730153444][b]Ukrainian[/b] by 𝖂𝖊յ𝖙𝖆𝖑𝖑[/url]
+[/list]
+[i]Translations are not maintained by REDACTED or the specific developers of this Segmentum mod. If something is wrong or broken, notify the translation's author.[/i]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/FAQ.png[/img]
+
+[b]Q:[/b] Is this mod safe to be added mid-save game?
+[b]A:[/b] Yes, it should be safe to add.
+
+[b]Q:[/b] Is this mod going to receive updates in the future OR be maintained by the authors?
+[b]A:[/b] Yes, we plan to expand the mod in the future. You can keep track of our plans in our [url=https://discord.gg/UtXexRemce][b]Discord server[/b][/url].
+
+[b]Q:[/b] Is there a Discord server?
+[b]A:[/b] Yes, [url=https://discord.gg/UtXexRemce][b]Discord server[/b][/url].
+
+[b]Q:[/b] Is there an official mod collection or list of Segmentum mods?
+[b]A:[/b] You can [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135]find it here[/url][/b].
+
+[b]Q:[/b] Is there a GitHub repository that I can find this mod at?
+[b]A:[/b] Yes, [b][url=https://github.com/Segmentum-series]access our GitHub page[/url][/b].
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Authors.png[/img]
+
+This mod is a creation of REDACTED, a collective of coders, artists, writers and more, making mods for RimWorld.
+[list]
+[*]TwoLargeGayMen - C# coding, XML coding
+[*]Abomination - XML coding, graphics artist
+[*]Anndra - XML coding, writing
+[*]The Suspect - SFX[/list]
+
+[b][url=https://creativecommons.org/licenses/by-nc-nd/4.0/] (CC BY-NC-ND 4.0)[/url][/b]
+
+[b]Do you like to see, and would like to support future developments? Become a Patreon or buy us a Coffee![/b]
+[url=https://www.patreon.com/cw/Segmentum][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Patreon.png[/img][/url]
+[url=https://ko-fi.com/teamredacted][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Kofi.png[/img][/url]
+[url=https://discord.gg/UtXexRemce][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Bugs.png[/img][/url]
+[b]In case of bugs, errors or other problems, join our Discord server, reach the team in the #questions channel or report a bug in #bugs. Remember to read the pinned post![/b]

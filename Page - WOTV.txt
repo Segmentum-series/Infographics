@@ -1,0 +1,83 @@
+[b][i]“NEVER TAKE A GAMBLE YOU'RE NOT PREPARED TO LOSE.”[/i][/b]
+[i]— Abdul Goldberg, Rogue Trader[/i]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Gif.gif[/img]
+
+[b]Warrant of the Void[/b] is a mod focused on adding Rogue Traders to your RimWorld. Serve under a Rogue Trader, an insanely wealthy noble with an ancient warrant of the void. They are exploring the uncharted Segmentum Mundus Marginalis, and making sure their extreme wealth and power are known to everyone.
+
+[b][i]This mod was commissioned by Lord of Pancakes and Muffins.[/i][/b]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135]Follow our collection for more "[b]Warhammer 40,000[/b]" content[/url], by REDACTED.
+
+All content is subject to change as we continue to review and improve the mod. Additional features and refinements will be introduced over time. This is a fan-made project developed by fans, in our available spare time, and we appreciate your understanding and continued support as the mod evolves.
+
+- [i]Abomination, REDACTED's current Chairman[/i]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/More40k.png[/img][/url]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Content.png[/img]
+
+[b]Warrant of the Void[/b] is currently on version 1.0. Read the change log for more information on each release's content. Apparels powered by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3267464767][b]RimDark 40k's Framework[/b][/url]. 
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/COTO/Contents_01.png[/img]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Translat.png[/img]
+
+There are currently no translations for this mod. If you've made a translation for this mod, then [b]let us know and we'll include them here![/b]
+
+[i]Translations are not maintained by REDACTED or the specific developers of this Segmentum mod. If something is wrong or broken, notify the translation's author.[/i]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/FAQ.png[/img]
+
+[b]Q:[/b] Do these spawn on enemies?
+[b]A:[/b] Only on the mod's added faction.
+
+[b]Q:[/b] Is this mod safe to be added mid-save game?
+[b]A:[/b] Yes, it should be safe to add, but removing could cause issues to your save.
+
+[b]Q:[/b] Is this mod going to receive updates in the future OR be maintained by the authors?
+[b]A:[/b] Yes, we plan to expand the mod in the future. You can keep track of our plans in our [url=https://discord.gg/UtXexRemce][b]Discord server[/b][/url].
+
+[b]Q:[/b] Is this mod CE compatible?
+[b]A:[/b] Currently not.
+
+[b]Q:[/b] Is there a Discord server?
+[b]A:[/b] Yes, [url=https://discord.gg/UtXexRemce][b]Discord server[/b][/url].
+
+[b]Q:[/b] Can I suggest something OR share my ideas, for this or other future mods in the Segmentum series?
+[b]A:[/b] Yes, join our [url=https://discord.gg/UtXexRemce][b]Discord server[/b][/url], and send your suggestions in the #ideas channel].
+
+[b]Q:[/b] Is there an official mod collection or list of Segmentum mods?
+[b]A:[/b] You can [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135]find it here[/url][/b].
+
+[b]Q:[/b] Is there a GitHub repository that I can find this mod at?
+[b]A:[/b] Yes, [url=https://github.com/Segmentum-series]access our GitHub page[/url].
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Authors.png[/img]
+
+This mod is a creation of REDACTED, a collective of coders, artists, writers and more, making mods for RimWorld.
+[list]
+[*]Abomination - Art direction, graphics artist, XML coding, SFX, producer
+[*]Anndra - Supervising writer, writer, XML coding, screenshots
+[*]The Suspect - SFX
+[*]TwoLargeGayMen - C# coding, XML coding
+[*]Gerrymon - Graphics artist 
+[*]Kay Rique - Screenshots[/list]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Thanks.png[/img]
+
+Our sincere thanks to [b]Lord of Pancakes and Muffins[/b] for your patronage, support and trust given to us, in the making of this project. It is finally released, and we truly hope you can now enjoy exploring this Segmentum and building your own Rogue Trader dynasty!
+
+Special thanks to [b]team REDACTED[/b] for your commitment and the incredible level of care you've put into this mod. You truly outdid yourselves here!
+
+A massive thank you to [b]Phonicmas[/b] and the [b]RimDark team[/b]. Your support and the outstanding [b]RimDark series and framework[/b] have been essential for us.
+
+Huge thanks to our [b]playtesters[/b] for helping identify and resolve issues and oversights before release.
+
+[b][url=https://creativecommons.org/licenses/by-nc-nd/4.0/] (CC BY-NC-ND 4.0)[/url][/b]
+
+[b]Do you like to see, and would like to support future developments? Become a Patreon or buy us a Coffee![/b]
+[url=https://www.patreon.com/cw/Segmentum][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Patreon.png[/img][/url]
+[url=https://ko-fi.com/teamredacted][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Kofi.png[/img][/url]
+[url=https://discord.gg/UtXexRemce][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Bugs.png[/img][/url]
+[b]In case of bugs, errors or other problems, join our Discord server, reach the team in the #questions channel or report a bug in #bugs. Remember to read the pinned post![/b]
