@@ -3,7 +3,7 @@
 
 [img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Gif.gif[/img]
 
-[b]Officio Assassinorum[/b] is a mod focused on adding Imperial Assassins to your RimWorld. Divided in temples dedicated to special techniques of elimination, these elite assassins are unsurmountable threat even to the most fearsome and dangerous enemies of the Imperium of Man.
+[b]Officio Assassinorum[/b] is a mod focused on adding Imperial Assassins to your RimWorld. Divided in temples dedicated to special techniques of elimination, these elite assassins are a nigh-insurmountable threat even to the most fearsome and dangerous enemies of the Imperium of Man.
 
 [b][i]This mod was commissioned by MDRay01.[/i][/b]
 

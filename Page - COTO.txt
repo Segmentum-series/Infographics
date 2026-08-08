@@ -19,15 +19,13 @@
 
 Weapons require at minimum two researches to become craftable. [b]Keep in mind the warnings listed below,[/b] as these weapons can be as dangerous and lethal to the wielder as they are to their targets.
 
-Additionally, [b]Radiation poisoning[/b] can be treated with a neutroamine infusion, available in the "Operations tab" of your pawn.
-
 [img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/COTO/Contents_02.png[/img]
 
-[b]Radiation poisoning[/b] can be treated with a neutroamine infusion, available in the "Operations tab" of your pawn.
+Additionally, [b]Radiation poisoning[/b] can be treated with a neutroamine infusion, available in the "Operations tab" of your pawn.
 
 [img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/COTO/Contents_03.png[/img]
 
-[b]Sicarians[/b] are an optional feature, meaning that you'll just be unable to see or use them, if you don't have [b]Biotech[/b] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336][b]Big & Small Framework[/b][/url] enabled.
+[b]Sicarians[/b] are an optional feature, meaning that you'll just be unable to see or use them if [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336][b]Big & Small Framework[/b][/url] is not enabled.
 
 [img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/COTO/Contents_04.png[/img]
 

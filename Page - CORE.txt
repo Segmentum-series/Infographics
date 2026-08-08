@@ -12,7 +12,7 @@ Content is subject to change as we continue to review and expand the mod’s dep
 
 [img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Content.png[/img]
 
-This mod serves as a host for dependency files used by the Segmentum series. When enabled, it provides access to select shared content required by other modules, and a handful of new additions. Non-dependency when enable include:
+This mod serves as a host for dependency files used by the Segmentum series. When enabled, it provides access to select shared content required by other modules, and a handful of new additions. Non-dependency when enabled include:
 [list]
 [*][b][i]TwoLargeGayMen's[/i] "Imperial Date System"[/b] - Modifying the standard year system of RimWorld, to display a Warhammer 40,000 stylized year system. You are able to pick a variety of years as well as fully customize the displayed date, just remember to save and reload your game for it to be displayed.
 [/list]
