@@ -33,7 +33,7 @@ There are currently no translations for this mod. If you've made a translation f
 [b]A:[/b] Only on the mod's added faction.
 
 [b]Q:[/b] How much integration is there with Save Our Ship 2 and Odyssey?
-[b]A:[/b] There are specific starting scenarios for both SOS2 and Odyssey, and when playing SOS2 the added Imperium pirate faction has its own unique ship designs for space combat.
+[b]A:[/b] There are specific starting scenarios for both SOS2 and Odyssey, and when playing SOS2 the added Imperium pirate faction has its own unique ship designs for space combat. Odyssey enables the mining laser weapon/tool for use, also.
 
 [b]Q:[/b] Is this mod safe to be added mid-save game?
 [b]A:[/b] Yes, it should be safe to add, but removing could cause issues to your save.
