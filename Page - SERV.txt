@@ -1,0 +1,98 @@
+[b][i]“PIECES OF MY MIND ARE FLOATING AWAY. PLEASE HELP. PLEASE.”[/i][/b]
+[i]— Medicae servitor, Hive Tertium, Atoma Prime[/i]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Gif.gif[/img]
+
+[b]Servitors[/b] is a mod focused on adding Servitors to your RimWorld. Servitors are cybernetically augmented thralls created through the lobotomization and mechanical conversion of humans, repurposed into obedient tools for labour, maintenance, warfare, and countless other functions across the Imperium of Man.
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135]Follow our collection for more "[b]Warhammer 40,000[/b]" content[/url], by REDACTED.
+
+All content is subject to change as we continue to review and improve the mod. Additional features and refinements will be introduced over time. This is a fan-made project developed by fans, in our available spare time, and we appreciate your understanding and continued support as the mod evolves.
+
+- [i]Abomination, REDACTED's current Chairman[/i]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/More40k.png[/img][/url]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Content.png[/img]
+
+[b]Servitors[/b] is currently on version 1.0. Read the change log for more information on each release's content.
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/SERV/Contents_01.png[/img]
+
+Finally you can convert pawns or prisoners into functional [b]Servitors[/b], with modified stats and needs. Upon completing a surgery implanting one of the many varied types of chips, the Servitor will automatically join your colony as a functional pawn. Each chip determines the Servitor’s designated role and may restrict other capabilities, such as combat, skilled labor, or thinking.
+
+Included are numerous implants designed to enhance and maintain your Servitors throughout their long-term service to the colony. Keep in mind that Servitors are intended to be expendable resources. Over time, their biological components will deteriorate under constant strain, making implant recovery and bodily recycling an important part of maintaining efficiency.
+
+Servitors are also generally slower and less efficient than regular pawns in certain tasks - such as walking. Take good care of your decaying little helpers!
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/SERV/Contents_02.png[/img]
+
+Combat Servitors can also benefit from replacing their arms with integrated weapon systems for sustained firepower. While Melta weaponry is included in the mod, the current version does not provide access to Heavy Bolter or Plasma arm variants unless [b]RimDark’s [i][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3505068525]Mankind’s Finest[/url][/i][/b] or [b]Segmentum’s [i][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654547350]Children of the Omnissiah[/url][/i][/b] are installed, respectively.
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/RP.png[/img]
+
+Servitors are cybernetically augmented thralls created through the lobotomization and mechanical conversion of humans, designed to perform a vast range of tasks across the Imperium of Mankind. While most are used as labor units for physically demanding and repetitive work, Servitors also fulfill logistical, medical, and combat-oriented roles. As such, a closer use of these, in your RimWorld would be/look like:
+- Prisoners, slaves, and criminals being converted into Servitors;
+- Heavy labor such as agriculture, hauling, and mining delegated to Servitors;
+- Combat Servitors deployed to reinforce your military forces as expendable frontline units or decoys;
+- Auxiliary Servitors assigned to basic medical assistance, maintenance, or research support tasks.
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Translat.png[/img]
+
+There are currently no translations for this mod. If you've made a translation for this mod, then [b]let us know and we'll include them here![/b]
+
+[i]Translations are not maintained by REDACTED or the specific developers of this Segmentum mod. If something is wrong or broken, notify the translation's author.[/i]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/FAQ.png[/img]
+
+[b]Q:[/b] Do these spawn on enemies?
+[b]A:[/b] No, they shouldn't be accessible to enemy factions currently.
+
+[b]Q:[/b] Is this mod safe to be added mid-save game?
+[b]A:[/b] Yes, it should be safe to add, but removing could cause issues to your save.
+
+[b]Q:[/b] Is this mod going to receive updates in the future OR be maintained by the authors?
+[b]A:[/b] Yes, we plan to expand the mod in the future. You can keep track of our plans in our [url=https://discord.gg/UtXexRemce][b]Discord server[/b][/url].
+
+[b]Q:[/b] Is this mod CE compatible?
+[b]A:[/b] Currently not, but we do not handle Combat Extended's patching, feel free to contact CE's team for that!
+
+[b]Q:[/b] Is there a Discord server?
+[b]A:[/b] Yes, [url=https://discord.gg/UtXexRemce][b]Discord server[/b][/url].
+
+[b]Q:[/b] Can I suggest something OR share my ideas, for this or other future mods in the Segmentum series?
+[b]A:[/b] Yes, join our [url=https://discord.gg/UtXexRemce][b]Discord server[/b][/url], and send your suggestions in the #ideas channel].
+
+[b]Q:[/b] Is there an official mod collection or list of Segmentum mods?
+[b]A:[/b] You can [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135]find it here[/url][/b].
+
+[b]Q:[/b] Is there a GitHub repository that I can find this mod at?
+[b]A:[/b] Yes, [url=https://github.com/Segmentum-series]access our GitHub page[/url].
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Authors.png[/img]
+
+This mod is a creation of REDACTED, a collective of coders, artists, writers and more, making mods for RimWorld.
+[list]
+[*]Abomination - Graphics artist
+[*]Anndra - Supervising writer, writer, XML coding
+[*]TwoLargeGayMen - C# coding, XML coding, screenshot
+[*]BoMarley - Producer, C# coding, XML coding
+[*]Kay Rique - Screenshot[/list]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Thanks.png[/img]
+
+Massive thanks to the [b]REDACTED team[/b] for your the level of care given to this mod, and persistence in making Servitors become the mod it is now. Working with you is always a pleasure! 
+
+Special thanks to our [b]playtesters[/b] for helping identify and resolve issues and oversights before release.
+
+Ludeon Studios for RimWorld.
+
+GamesWorkshop for Warhammer 40,000.
+
+[b][url=https://creativecommons.org/licenses/by-nc-nd/4.0/] (CC BY-NC-ND 4.0)[/url][/b]
+
+[b]Do you like to see, and would like to support future developments? Become a Patreon or buy us a Coffee![/b]
+[url=https://www.patreon.com/cw/Segmentum][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Patreon.png[/img][/url]
+[url=https://ko-fi.com/teamredacted][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Kofi.png[/img][/url]
+[url=https://discord.gg/UtXexRemce][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Bugs.png[/img][/url]
+[b]In case of bugs, errors or other problems, join our Discord server, reach the team in the #questions channel or report a bug in #bugs. Remember to read the pinned post![/b]
