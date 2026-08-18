@@ -1,0 +1,66 @@
+[b][i]“THEY HIDE THEIR FACES IN SNARLING IRON, BUT THE CRUELTY IN THEIR HEARTS IS MANIFESTED IN THEIR BRUTAL DEEDS.”[/i][/b]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Gif.gif[/img]
+
+[b]Sabbat's Blight[/b] is a mod focused on adding the Blood Pact to your RimWorld. Serve to Khorne, the Blood God. This mod is part of our very special collaboration with REDACTED ([url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135]from the Segmentum series[/url].).
+
+[b][i]This mod was commissioned by BruceTheRonin.[/i][/b]
+
+Keep in mind that any content added can be subjected to changes in the future. 
+
+MISSING Logo
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/BP/Content.png[/img]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/COTO/Contents_01.png[/img]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/BP/FAQ.png[/img]
+
+[b]Q:[/b] Do these spawn on enemies?
+[b]A:[/b] Only on the mod's added faction.
+
+[b]Q:[/b] Is this mod safe to be added mid-save game?
+[b]A:[/b] Yes, it should be safe to add, but removing could cause issues to your save.
+
+[b]Q:[/b] Is this mod CE compatible?
+[b]A:[/b] Currently not.
+
+[b]Q:[/b] Is there a Discord server?
+[b]A:[/b] Yes, [url=MISSING LINK][b]Discord server[/b][/url].
+
+[b]Q:[/b] What is Coventech + REDACTED? Why I'm seeing this?
+[b]A:[/b] REDACTED is a partner to Coventech in this release, and has provided support creating and implement content to the mod. Coventech has also been working alongside REDACTED in their own 40k mod series, Segmentum.
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/BP/Authors.png[/img]
+
+This mod is a creation of Coventech, with help from REDACTED and more!
+[list]
+[*]JerryTheCultist - Producer, XML coding
+[*]ShunTheWitch - Producer, XML coding, C# coding
+[*]Eridanus: XML coding
+[*]TwoLargeGayMen - XML coding
+[*]Abomination - Lead artist, graphics artist
+[*]Artemiish - Apparels artist
+[*]BlackMarket420 - Vehicles artist
+[*]Gerrymon - Furniture artists
+[*]The Suspect - Weapons artist
+[*]Anndra - Writer
+[*]Forrrr - Writer
+[*]Razzberry - Writer[/list]
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/BP/Thanks.png[/img]
+
+Special thanks to BruceTheRonin for your enormous patience and the attention you gave to the team during the production of Sabbath's Blight. Without your interest and the investment you provided, it is safe to say that Blood Pact would not exist as it does today — or perhaps not at all.
+
+Many thanks to the original creators of the mod, such as [b]Eridanus[/b], [b]Forrrr[/b] and [b]Razzberry[/b] for the outstanding work put in to this mod! Aditional thanks to community volunteers such as [b]Bizuter[/b] for your input!
+
+Huge thanks to [b]Team REDACTED[/b] for helping polishing the mod's final aspects, with code fixes, new artwork, and much more, while keeping the original aspects of the mod intact!
+
+[b][url=https://creativecommons.org/licenses/by-nc-nd/4.0/] (CC BY-NC-ND 4.0)[/url][/b]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/More40k.png[/img][/url]
+
+MISSING COVENCTECH Kofi or Patreon images
+[b]Buy REDACTED a Coffee![/b]
+[url=https://ko-fi.com/teamredacted][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Kofi.png[/img][/url]
+MISSING COVENTECH DISCORD image
