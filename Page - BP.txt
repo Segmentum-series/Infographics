@@ -28,8 +28,8 @@ MISSING Logo
 [b]Q:[/b] Is there a Discord server?
 [b]A:[/b] Yes, [url=MISSING LINK][b]Discord server[/b][/url].
 
-[b]Q:[/b] What is Coventech + REDACTED? Why I'm seeing this?
-[b]A:[/b] REDACTED is a partner to Coventech in this release, and has provided support creating and implement content to the mod. Coventech has also been working alongside REDACTED in their own 40k mod series, Segmentum.
+[b]Q:[/b] What is Coventech + REDACTED? Why am I seeing this?
+[b]A:[/b] REDACTED is a partner to Coventech in this release, and has provided support creating and implementing content to the mod. Coventech has also been working alongside REDACTED in their own 40k mod series, Segmentum.
 
 [img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/BP/Authors.png[/img]
 
@@ -44,7 +44,7 @@ This mod is a creation of Coventech, with help from REDACTED and more!
 [*]BlackMarket420 - Vehicles artist
 [*]Gerrymon - Furniture artists
 [*]The Suspect - Weapons artist
-[*]Anndra - Writer
+[*]Anndra - Writer, XML coding
 [*]Forrrr - Writer
 [*]Razzberry - Writer[/list]
 
