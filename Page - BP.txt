@@ -8,11 +8,15 @@
 
 Keep in mind that any content added can be subjected to changes in the future. 
 
-MISSING Logo
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/BP/Logos.png[/img]
 
 [img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/BP/Content.png[/img]
 
-[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/COTO/Contents_01.png[/img]
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/BP/Contents_01.png[/img]
+
+Vehicles require [b]Smash Phil's [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3014915404]Vehicle Framework[/url][/b] for the [b]Leman Russ[/b] and [b]Taurox[/b], while requiring [b]Coventech's [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3636334743]Mechsuit Framework[/url][/b] for the [b]Stalk Tank[/b].
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/BP/Contents_02.png[/img]
 
 [img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/BP/FAQ.png[/img]
 
@@ -55,6 +59,8 @@ Special thanks to BruceTheRonin for your enormous patience and the attention you
 Many thanks to the original creators of the mod, such as [b]Eridanus[/b], [b]Forrrr[/b] and [b]Razzberry[/b] for the outstanding work put in to this mod! Aditional thanks to community volunteers such as [b]Bizuter[/b] for your input!
 
 Huge thanks to [b]Team REDACTED[/b] for helping polishing the mod's final aspects, with code fixes, new artwork, and much more, while keeping the original aspects of the mod intact!
+
+[img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/BP/Logos.png[/img]
 
 [b][url=https://creativecommons.org/licenses/by-nc-nd/4.0/] (CC BY-NC-ND 4.0)[/url][/b]
 
