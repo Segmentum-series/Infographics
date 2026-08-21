@@ -1,0 +1,92 @@
+DEVBLOG #1
+[IMAGESEG]
+
+Hello everyone, and welcome to our first-ever development blog.
+
+While there is currently a lot being worked on for Segmentum, this post is more of a wrap-up and an opportunity to discuss the future rather than showcase anything entirely new or upcoming.
+
+For the past few weeks have been focused on implementing new mechanics & content, and we're finally done! As you may have seen on the Workshop, we recently released Officio Assassinorum and Warrant of the Void, alongside smaller but substantial updates to Children of the Omnissiah and Servitors. Not only that, but we've already carried out some maintenance in some side projects and we are ready to talk.
+
+Today, we'll briefly cover the following topics:
+
+1. Warrant of the Void & Officio Assassinorum wrap up
+2. Backpacks rework
+3. Wiki prospects
+4. New roadmap
+5. Others
+
+---
+
+1. Warrant of the Void & Officio Assassinorum
+
+Warrant of the Void and Officio Assassinorum are finally out! These two mods, our first ever commissioned projects, were specifically chosen because of the variety they could bring to the series while remaining relatively smaller in scope. Warrant in particular started its life over GrimWorld a couple of years ago, but never materialized beyond the mod's psyker set. After the commissioner reached out to us, I insisted that we give the project the attention it deserved and bring his dream mod to life.
+
+Although originally planned as a smaller project, and more compact mod, Warrant grew considerably in scope, which caused its release to be delayed several times. It was initially envisioned as little more than an apparels and weapons pack, but this quickly led us to reconsider the project's direction and incorporate some of our favorite aspects of the series, as well as adding new angles.  
+
+First, we added ranks. Later, we introduced flak apparel and a lasgun to Core, allowing more "normal" Imperial colonists to exist alongside the specialized content. Then, somewhat unexpectedly, but through a lot of effort and dedication from Anndra and Kitchen, we ended up adding backstories, a faction, quests, and even SOS2 and Odyssey integrations. That is what we call "slightly massive" feature creep.
+
+[Devblog-Image1]
+
+Officio Assassinorum, thankfully, remained much more constrained in scope. First, we added the planned apparel and customization options, taking advantage of the advancements made by RimDark, alongside the weapons. The weapons then received their own special projectiles and effects. From there, we added special apparel abilities and implants that were not originally planned.
+
+Very simple, as you can see! 
+
+To complement all of this, we also took some time to review Children of the Omnissiah and Servitors, expanding and improving their content here and there, as any "normal" development process should. And yes, these mods were delayed beyond their originally intended release dates, but they were also significantly improved during that time.
+
+---
+
+2. Backpacks rework
+
+In the last couple of weeks before the release of both Warrant of the Void and Officio Assassinorum, we decided to be completely mad and rework the series' entire backpack system. This resulted in a significant amount of work under a very tight schedule. Thankfully, with everyone on the same page and a comprehensive plan in place, we were able to get everything done without too many issues.
+
+Additionally, we had to take advantage of the upcoming releases, as they would naturally lead to players starting new playthroughs - avoiding the problems caused by removing certain item Defs, that would, otherwise, cause issues with those items in existing saves. 
+
+All of this culminated in the implemented new system, which is now in it's early stages, but that will be expanded as the series progresses.
+
+[Devblog-Image2]
+
+For a glimpse of how we plan to scale things in the future, check out the following document:
+
+https://docs.google.com/presentation/d/1oG0lgLRsJzb21GiNRmXbWZd27hDfbITpqwy7ZF3vM0Q/edit?usp=sharing
+
+
+---
+
+3. Wiki prospects
+
+As the series continues to grow and we release more content for our existing mods, we've reached a point where having a dedicated wiki is becoming both a possibility as well as a necessity. However, running a wiki is not as simple as it may seem. It requires coding knowledge (Wiki markup, CSS), patience, and a very specific mindset to properly organize and present the project's content in the required format.
+
+We've already taken the first few steps toward establishing a wiki, but we're currently lacking the most important resources a wiki requires: time and people. At the moment, it's a matter of choosing between working on the wiki and working on the mods, and we'll always side on the latter.
+
+That being said, we're looking to expand the team with some wiki enthusiasts, creating a dedicated Wiki Staff role for volunteers interested in helping with this effort. We'll have more to share about the wiki later, but suffice to say: it's a BIG project, and it will take some time before it becomes fully functional or be useful for the players.
+
+
+---
+
+4. New roadmap
+
+[Devblog-Image3]
+
+We've assessed the team's priorities and current development efforts, and a new roadmap has been prepared. We've settled on how things are expected come out in the near future, however, keep in mind that things are rarely as straightforward as they may seem, especially when it comes to modding. 
+
+While several aspects of the main planned mods in are already well advanced, their releases may happen in a different order than expected, as was the case with Warrant of the Void and Officio Assassinorum.
+
+Very rarely is something simple to sort out and release, except the roadmap, that will released this Sunday!
+
+---
+
+5. Others
+
+We've received a few interesting offers to help out with fellow modders' creations. What exactly we mean by this will become clearer as we make progress on these projects, whether through new releases or by retroactively incorporating their creations into our own mods. Regardless, we may be entering a renaissance in the 40K modding scene for RimWorld, and you'll likely be seeing a bit more of our handiwork around the community!
+
+One of these smaller projects should be released within the month. Prepare for some corn-y action in the future.
+
+
+---
+
+That concludes our first ever devblog. Thank you for reading it and for your continued support. Be sure to join our Discord for more frequent updates and development previews.
+
+Until next time!
+
+Abomination
+REDACTED's Chairman
