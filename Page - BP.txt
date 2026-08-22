@@ -30,7 +30,7 @@ Vehicles require [b]Smash Phil's [url=https://steamcommunity.com/sharedfiles/fil
 [b]A:[/b] Currently not.
 
 [b]Q:[/b] Is there a Discord server?
-[b]A:[/b] Yes, [url=MISSING LINK][b]Discord server[/b][/url].
+[b]A:[/b] Yes, [url=https://discord.gg/ssTMR5xtsM][b]Discord server[/b][/url].
 
 [b]Q:[/b] What is Coventech + REDACTED? Why am I seeing this?
 [b]A:[/b] REDACTED is a partner to Coventech in this release, and has provided support creating and implementing content to the mod. Coventech has also been working alongside REDACTED in their own 40k mod series, Segmentum.
@@ -66,7 +66,13 @@ Huge thanks to [b]Team REDACTED[/b] for helping polishing the mod's final aspect
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3654537135][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/More40k.png[/img][/url]
 
-MISSING COVENCTECH Kofi or Patreon images
+[url=https://discord.gg/ssTMR5xtsM] Coventech's Discord server[/url] come here for more stupidity
+
+[b]Buy Coventech a Coffee![/b]
+[url=https://ko-fi.com/jerrythecultist] JerryTheCultist's Ko-fi page[/url]
+[url=https://ko-fi.com/cvnshunthewitch] Shun The Witch's Ko-fi page[/url]
+
 [b]Buy REDACTED a Coffee![/b]
 [url=https://ko-fi.com/teamredacted][img]https://raw.githubusercontent.com/Segmentum-series/Infographics/refs/heads/main/Generic/Kofi.png[/img][/url]
-MISSING COVENTECH DISCORD image
+
+[url=https://discord.gg/ssTMR5xtsM] Coventech's Discord server[/url] come here for more stupidity!
