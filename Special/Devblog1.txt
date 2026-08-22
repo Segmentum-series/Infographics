@@ -5,7 +5,7 @@ Hello everyone, and welcome to our first-ever development blog.
 
 While there is currently a lot being worked on for Segmentum, this post is more of a wrap-up and an opportunity to discuss the future rather than showcase anything entirely new or upcoming.
 
-For the past few weeks have been focused on implementing new mechanics & content, and we're finally done! As you may have seen on the Workshop, we recently released Officio Assassinorum and Warrant of the Void, alongside smaller but substantial updates to Children of the Omnissiah and Servitors. Not only that, but we've already carried out some maintenance in some side projects and we are ready to talk.
+The past few weeks have been focused on implementing new mechanics & content, and we're finally done! As you may have seen on the Workshop, we recently released Officio Assassinorum and Warrant of the Void, alongside smaller but substantial updates to Children of the Omnissiah and Servitors. Not only that, but we've already carried out some maintenance in some side projects and we are ready to talk.
 
 Today, we'll briefly cover the following topics:
 
@@ -19,11 +19,11 @@ Today, we'll briefly cover the following topics:
 
 1. Warrant of the Void & Officio Assassinorum
 
-Warrant of the Void and Officio Assassinorum are finally out! These two mods, our first ever commissioned projects, were specifically chosen because of the variety they could bring to the series while remaining relatively smaller in scope. Warrant in particular started its life over GrimWorld a couple of years ago, but never materialized beyond the mod's psyker set. After the commissioner reached out to us, I insisted that we give the project the attention it deserved and bring his dream mod to life.
+Warrant of the Void and Officio Assassinorum are finally out! These two mods, our first ever commissioned projects, were specifically chosen because of the variety they could bring to the series while remaining relatively small in scope. Warrant in particular started its life under GrimWorld a couple of years ago, but never materialized beyond the mod's psyker set. After the commissioner reached out to us, I insisted that we give the project the attention it deserved and bring his dream mod to life.
 
-Although originally planned as a smaller project, and more compact mod, Warrant grew considerably in scope, which caused its release to be delayed several times. It was initially envisioned as little more than an apparels and weapons pack, but this quickly led us to reconsider the project's direction and incorporate some of our favorite aspects of the series, as well as adding new angles.  
+Although originally planned as a smaller project, and more compact mod, Warrant grew considerably in scope, which caused its release to be delayed several times. It was initially envisioned as little more than an apparel and weapons pack, but this quickly led us to reconsider the project's direction and incorporate some of our favorite aspects of the series, as well as adding new angles.
 
-First, we added ranks. Later, we introduced flak apparel and a lasgun to Core, allowing more "normal" Imperial colonists to exist alongside the specialized content. Then, somewhat unexpectedly, but through a lot of effort and dedication from Anndra and Kitchen, we ended up adding backstories, a faction, quests, and even SOS2 and Odyssey integrations. That is what we call "slightly massive" feature creep.
+First, we added ranks. Later, we introduced flak apparel and a lasgun to Core, allowing more "normal" Imperial colonists to exist alongside the specialized content. Then, somewhat unexpectedly, but through a lot of effort and dedication from Anndra and KitchenSink, we ended up adding backstories, a faction, quests, and even SOS2 and Odyssey integrations. That is what we call "slightly massive" feature creep.
 
 [Devblog-Image1]
 
@@ -41,7 +41,7 @@ In the last couple of weeks before the release of both Warrant of the Void and O
 
 Additionally, we had to take advantage of the upcoming releases, as they would naturally lead to players starting new playthroughs - avoiding the problems caused by removing certain item Defs, that would, otherwise, cause issues with those items in existing saves. 
 
-All of this culminated in the implemented new system, which is now in it's early stages, but that will be expanded as the series progresses.
+All of this culminated in the new system, which is now in the early stages of implementation, but that will be expanded as the series progresses.
 
 [Devblog-Image2]
 
@@ -56,7 +56,7 @@ https://docs.google.com/presentation/d/1oG0lgLRsJzb21GiNRmXbWZd27hDfbITpqwy7ZF3v
 
 As the series continues to grow and we release more content for our existing mods, we've reached a point where having a dedicated wiki is becoming both a possibility as well as a necessity. However, running a wiki is not as simple as it may seem. It requires coding knowledge (Wiki markup, CSS), patience, and a very specific mindset to properly organize and present the project's content in the required format.
 
-We've already taken the first few steps toward establishing a wiki, but we're currently lacking the most important resources a wiki requires: time and people. At the moment, it's a matter of choosing between working on the wiki and working on the mods, and we'll always side on the latter.
+We've already taken the first few steps toward establishing a wiki, but we're currently lacking the most important resources a wiki requires: time and people. At the moment, it's a matter of choosing between working on the wiki and working on the mods, and we'll always choose the latter.
 
 That being said, we're looking to expand the team with some wiki enthusiasts, creating a dedicated Wiki Staff role for volunteers interested in helping with this effort. We'll have more to share about the wiki later, but suffice to say: it's a BIG project, and it will take some time before it becomes fully functional or be useful for the players.
 
@@ -69,9 +69,9 @@ That being said, we're looking to expand the team with some wiki enthusiasts, cr
 
 We've assessed the team's priorities and current development efforts, and a new roadmap has been prepared. We've settled on how things are expected come out in the near future, however, keep in mind that things are rarely as straightforward as they may seem, especially when it comes to modding. 
 
-While several aspects of the main planned mods in are already well advanced, their releases may happen in a different order than expected, as was the case with Warrant of the Void and Officio Assassinorum.
+While several aspects of the main planned mods are already well advanced, their releases may happen in a different order than expected, as was the case with Warrant of the Void and Officio Assassinorum.
 
-Very rarely is something simple to sort out and release, except the roadmap, that will released this Sunday!
+Very rarely is something simple to sort out and release, except for the roadmap, which will be released this Sunday!
 
 ---
 
